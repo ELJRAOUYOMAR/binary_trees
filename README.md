@@ -87,5 +87,5 @@ Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. T
 
 ### Print function
 
-To match the examples in the tasks, you are given (this function)[https://github.com/alx-tools/0x1C.c]
+To match the examples in the tasks, you are given [this function](https://github.com/alx-tools/0x1C.c)
 
