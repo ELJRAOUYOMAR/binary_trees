@@ -3,15 +3,15 @@
 ## Resources
 
 #### Read or watch:
-. Binary tree (note the first line: Not to be confused with B-tree.) / https://en.wikipedia.org/wiki/Binary_tree
+. [Binary tree (note the first line: Not to be confused with B-tree.)](https://en.wikipedia.org/wiki/Binary_tree)
 
-. Data Structure and Algorithms - Tree / https://www.tutorialspoint.com / data_structures_algorithms/tree_data_structure.htm
+. [Data Structure and Algorithms - Tree / https://www.tutorialspoint.com](data_structures_algorithms/tree_data_structure.htm)
 
-. Tree Traversal / https://www.programiz.com/dsa/tree-traversal
+. [Tree Traversal](https://www.programiz.com/dsa/tree-traversal)
 
-. Binary Search Tree / https://en.wikipedia.org/wiki/Binary_search_tree
+. [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 
-. Data structures: Binary Tree / https://www.youtube.com/watch?v=H5JubkIy_p8
+. [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8)
 
 
 ## General
@@ -31,7 +31,7 @@
 . All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 . All your files should end with a new line
 . A README.md file, at the root of the folder of the project, is mandatory
-. Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl(https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
+. Your code should use the Betty style. It will be checked using betty-style.pl and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
 . You are not allowed to use global variables
 . No more than 5 functions per file
 . You are allowed to use the standard library
