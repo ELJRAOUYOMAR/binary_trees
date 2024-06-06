@@ -5,7 +5,7 @@
  * @tree: Double pointer to the root node of the BST to insert the value
  * @value: The value to insert
  *
- * Return: Pointer to the created node, or NULL on failure
+ * Return: Pointer to the created node, or NULL on failure.
  */
 bst_t *bst_insert(bst_t **tree, int value)
 {
