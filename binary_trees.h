@@ -43,6 +43,7 @@ void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int));
 binary_tree_t *binary_tree_rotate_left(binary_tree_t *tree);
 int binary_tree_is_bst(const binary_tree_t *tree);
 bst_t *array_to_bst(int *array, size_t size);
+bst_t *bst_insert(bst_t **tree, int value);
 
 void binary_tree_print(const binary_tree_t *tree);
 
